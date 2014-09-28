@@ -11,6 +11,17 @@ scripts[] = js/modernizr.js
 scripts[] = js/jquery.wipetouch.js
 scripts[] = js/jquery.validate.js
 scripts[] = js/wsutil.js
+scripts[] = js/affix.js
+scripts[] = js/alert.js
+scripts[] = js/button.js
+scripts[] = js/collapse.js
+scripts[] = js/dropdown.js
+scripts[] = js/modal.js
+scripts[] = js/popover.js
+scripts[] = js/scrollspy.js
+scripts[] = js/tab.js
+scripts[] = js/tooltip.js
+scripts[] = js/transition.js
 
 features[] = logo
 features[] = name

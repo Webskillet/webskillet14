@@ -36,6 +36,8 @@ regions[page_top]       = Page top
 regions[page_bottom]    = Page bottom
 
 ; default settings
+settings[webskillet14_google_webfonts] = ''
+settings[webskillet14_load_fontawesome] = 0
 settings[webskillet14_twitter_handle] = ''
 settings[webskillet14_twitter_hashtag] = ''
 settings[webskillet14_custom_css] = ''
